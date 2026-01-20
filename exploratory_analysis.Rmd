@@ -1,0 +1,8 @@
+---
+title: "exploratory_analysis"
+author: "Charles Etuk"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+eda for class
